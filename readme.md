@@ -1,4 +1,3 @@
-You're almost there! Great effort! 🎉 Just a few corrections and clarifications to make it perfect:
 1. **Check Git Version:**
 
 ```bash
